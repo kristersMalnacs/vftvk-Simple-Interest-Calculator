@@ -1,4 +1,40 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+    background-color: black;
+    font-family: arial;
+    color: white;
+    border-radius: 25px;
+    top: 30px;
+    position: relative;
+    border-style: hidden;
+    border-width: 5px;
+    border-color: white;
+}
 
+h1 {
+    color: grey;
+    font-family: Arial, Verdana, sans-serif;
+    text-align: center;
+}
 
+.maindiv {
+    color: black;
+    border-radius: 25px;
+    width: 470px;
+    margin: auto;
+    background-color: white;
+    align-items: center;
+    padding: 10px;
+    top: 8px;
+    position: relative;
+    bottom: 15px;
+}
+
+#center {
+    left: 85px;
+    position: relative;
+}
+
+footer {
+    position: relative;
+    left: 8px;
+}
